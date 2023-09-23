@@ -1,0 +1,52 @@
+[
+	{
+		"title": "Premium Leather Wallet",
+		"description": "Handcrafted genuine leather wallet with multiple card slots and a spacious bill compartment.",
+		"image": "http://unsplash.it/200/200?random"
+	},
+	{
+		"title": "Smartphone Holder Stand",
+		"description": "Adjustable phone holder stand with a sleek and modern design, perfect for watching videos.",
+		"image": "http://unsplash.it/200/200?random"
+	},
+	{
+		"title": "Stainless Steel Water Bottle",
+		"description": "Double-walled insulated water bottle with a capacity of 24 ounces, keeps liquids cold for 24 hours.",
+		"image": "http://unsplash.it/200/200?random"
+	},
+	{
+		"title": "Wireless Bluetooth Earbuds",
+		"description": "High-quality wireless earbuds with noise-cancellation technology for an immersive audio experience.",
+		"image": "http://unsplash.it/200/200?random"
+	},
+	{
+		"title": "Vintage Style Sunglasses",
+		"description": "Retro-inspired sunglasses with UV protection and polarized lenses, suitable for any occasion.",
+		"image": "http://unsplash.it/200/200?random"
+	},
+	{
+		"title": "Aromatherapy Diffuser",
+		"description": "Ultrasonic essential oil diffuser with color-changing LED lights, creates a calming and soothing atmosphere.",
+		"image": "http://unsplash.it/200/200?random"
+	},
+	{
+		"title": "Chef's Kitchen Knife Set",
+		"description": "Professional-grade knife set with a variety of knives and a stylish wooden block for storage.",
+		"image": "http://unsplash.it/200/200?random"
+	},
+	{
+		"title": "Fitness Tracker Watch",
+		"description": "Waterproof fitness tracker watch with heart rate monitor, step counter, and smartphone sync.",
+		"image": "http://unsplash.it/200/200?random"
+	},
+	{
+		"title": "Luxury Fountain Pen",
+		"description": "Elegant fountain pen with a gold-plated nib and a polished resin body, perfect for writing in style.",
+		"image": "http://unsplash.it/200/200?random"
+	},
+	{
+		"title": "Ceramic Coffee Mug Set",
+		"description": "Set of 4 ceramic coffee mugs with unique hand-painted designs, microwave and dishwasher safe.",
+		"image": "http://unsplash.it/200/200?random"
+	}
+]
